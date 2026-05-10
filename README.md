@@ -6,7 +6,7 @@
 Desenvolvedor focado em Back-end e Análise de Dados, criando soluções eficientes com Python, SQL e automação. Apaixonado por transformar dados em insights e construir sistemas escaláveis, seguros e funcionais.
 
 <p align="left">
-Me chamo Felipe Costa Medrado, tenho 22 anos e sou natural da bahia. Concluí o Ensino Médio no Colégio Reitor Miguel Calmon junto ao curso técnico em Logística, experiência que fortaleceu minha organização, visão analítica e resolução de problemas. Atualmente, estou cursando Análise e Desenvolvimento de sistemas na Wyden UNIFAVIP.
+Me chamo Felipe Costa Medrado, tenho 22 anos e sou natural da Bahia. Concluí o Ensino Médio no Colégio Reitor Miguel Calmon junto ao curso técnico em Logística, experiência que fortaleceu minha organização, visão analítica e resolução de problemas. Atualmente, estou cursando Análise e Desenvolvimento de sistemas na Wyden UNIFAVIP.
 </p>
 
 ---
